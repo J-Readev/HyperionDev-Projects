@@ -1,0 +1,21 @@
+
+Scenario 1
+
+Ask user to input their name ("What is your name?")
+Store name as a variable titled: first_Name 
+
+Print first_Name
+Print "Hello, World"
+
+Scenario 2
+Ask user to enter their age ("How old are you?")
+Store age as a variable titled: age
+
+ if age is over / equal to 18 
+  print "You're old enough"
+  
+ if age is equal / over 16 but less than 18 
+  print "Almost there"
+  
+ else
+  print "You're just too young"
