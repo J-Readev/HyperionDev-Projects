@@ -1,0 +1,36 @@
+ 
+ Scenario 1
+ 
+ Request positive number
+ if number is 0
+  print largest number user has input
+ else
+ request positive number 
+ 
+ Scenario 2
+ 
+ print random assortment of numbers
+ count number amount
+ add numbers together
+ number total divide by number amount
+ print answer
+ 
+ Scenario 3
+ 
+ request grocery list
+ request groceries already purchased
+ compare grocery list and groceries already purchased
+ remove groceries already purchased from grocery list
+ sort grocery list alphabetically
+ print grocery list
+ 
+ Scenario 4
+ 
+Request X from user
+Request Y from user
+add x to y to get S
+divide S by 2 to get A
+multiply X by Y to get P
+Print the result that is S, A and P
+
+ 
